@@ -14,4 +14,4 @@ resources:
 
 images:
   - name: 9849930319/chai-devops
-    newTag: v9.1.2
+    newTag: v9.7.1
