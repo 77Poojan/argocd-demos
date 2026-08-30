@@ -11,7 +11,3 @@ resources:
 # (optional) you can put commonLabels or namespace here if you want
 # commonLabels:
 #   app: chai-app
-
-images:
-  - name: 9849930319/chai-devops
-    newTag: v9.1.2
